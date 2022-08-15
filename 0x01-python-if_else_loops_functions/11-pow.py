@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-def pow(a ** b):
-    return a ** b
+for m in range(97, 123):
+    print("{}".format(chr(m)), end='')
